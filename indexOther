@@ -1,0 +1,63 @@
+<html>
+    <head>
+        <title>cs camp is kool with a k</title>
+    </head>
+    
+    <body> 
+        <div style = "color: purple">
+            <h3>This is the Page Body:</h3>
+        </div>
+        
+        <a href = "https://www.google.com">
+            <p>ALL content goes here.</p>
+        </a>
+        
+        <ul>
+            <li>Boink</li>
+            <li>Coink</li>
+            <li>Doink</li>
+            <li>Foink</li>
+            <li>Goink</li>
+            <li>Hoink</li>
+            <li>Joink</li>
+            <li>Koink</li>
+            <li>Loink</li>
+            <li>Moink</li>
+            <li>Noink</li>
+            <li>Poink</li>
+            <li>Qoink</li>
+            <li>Roink</li>
+            <li>Soink</li>
+            <li>Toink</li>
+            <li>Voink</li>
+            <li>Woink</li>
+            <li>Xoink</li>
+            <li>Yoink</li>
+            <li>Zoink</li>
+        </ul>
+        <ol>
+            <li>Boink</li>
+            <li>Coink</li>
+            <li>Doink</li>
+            <li>Foink</li>
+            <li>Goink</li>
+            <li>Hoink</li>
+            <li>Joink</li>
+            <li>Koink</li>
+            <li>Loink</li>
+            <li>Moink</li>
+            <li>Noink</li>
+            <li>Poink</li>
+            <li>Qoink</li>
+            <li>Roink</li>
+            <li>Soink</li>
+            <li>Toink</li>
+            <li>Voink</li>
+            <li>Woink</li>
+            <li>Xoink</li>
+            <li>Yoink</li>
+            <li>Zoink</li>
+        </ol>
+    </body>
+    
+</html>
